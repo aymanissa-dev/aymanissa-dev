@@ -23,7 +23,7 @@
 ---
 
 # About Me
-I'm **Ayman Issa**.a Software Engineer and Developer Advocate based in **Nairobi, Kenya 🇰🇪**.
+I'm **Ayman Issa**, a Software Engineer and Developer Advocate based in **Nairobi, Kenya 🇰🇪**.
 
 I enjoy designing scalable applications, building modern backend systems, integrating AI into real-world products, and helping developers grow through technical content and community engagement.
 
