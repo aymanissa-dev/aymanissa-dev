@@ -87,12 +87,6 @@ I believe software should be simple, maintainable, and built with purpose.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aymanissa-dev&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
 ---
 
 # Currently
