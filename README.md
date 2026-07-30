@@ -152,62 +152,11 @@ Current areas of focus include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aymanissa-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Ayman Issa's GitHub statistics" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanissa-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Ayman Issa's most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aymanissa-dev&theme=transparent&hide_border=true" alt="Ayman Issa's GitHub contribution streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aymanissa-dev&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="Ayman Issa's GitHub trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanissa-dev&theme=github-compact&hide_border=true&area=true" alt="Ayman Issa's GitHub contribution graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aymanissa-dev/aymanissa-dev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aymanissa-dev/aymanissa-dev/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/aymanissa-dev/aymanissa-dev/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 </div>
 
