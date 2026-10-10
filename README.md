@@ -19,7 +19,7 @@ I'm open to connecting with developers, educators, open-source contributors, fou
 - 🌐 Portfolio: [aymanissa.dev](https://aymanissa.dev/)
 - 💼 LinkedIn: [linkedin.com/in/aymanissa-dev](https://linkedin.com/in/aymanissa-dev)
 - 🐦 X: [x.com/aymanissa_dev](https://x.com/aymanissa_dev)
-- 🧵 Threads: [threads.com/@aymanissa](https://www.threads.com/@aymanissa)
+- 🧵 Threads: [threads.com/@aymanissa.dev](https://www.threads.com/@aymanissa.dev)
 - 📧 Email: [hello@aymanissa.dev](mailto:hello@aymanissa.dev)
 
 ---
