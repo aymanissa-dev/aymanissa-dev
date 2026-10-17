@@ -1,27 +1,27 @@
-<div align="center">
+ <div align="center">
 
 # Ayman Issa
 
-**Software Engineer · Developer Advocate · CS Student**
+I build for the web, contribute to open source, and make things nobody asked for.
 
 `web` · `open source` · `community`
 
 </div>
 
-I build software, contribute to open source, and spend a questionable amount of time turning random ideas into actual projects and products.
+Most of my time goes into building software, exploring developer tools, experimenting with new technologies, and turning random ideas into projects that occasionally become useful.
 
-Most of my work lives around the web — building products, experimenting with developer tools, and occasionally creating things nobody asked for.
+When I'm not writing code, I'm usually somewhere in a developer community — speaking, organizing, teaching, or helping someone build something cool. Sometimes all four.
 
-Outside the code, I'm involved in developer communities — speaking, organizing, teaching, and helping other developers build cool shit. Usually on purpose.
-
-I'm open to connecting with developers, educators, open-source contributors, founders, and people building meaningful technology.
-
-- 🌐 Portfolio: [aymanissa.dev](https://aymanissa.dev/)
-- 💼 LinkedIn: [linkedin.com/in/aymanissa-dev](https://linkedin.com/in/aymanissa-dev)
-- 🐦 X: [x.com/aymanissa_dev](https://x.com/aymanissa_dev)
-- 🧵 Threads: [threads.com/@aymanissa.dev](https://www.threads.com/@aymanissa.dev)
-- 📧 Email: [hello@aymanissa.dev](mailto:hello@aymanissa.dev)
+I'm always happy to connect with developers, open-source contributors, educators, founders, and anyone who enjoys building things.
 
 ---
 
-> Build software that solves real problems, empower developers through knowledge, and leave every project better than you found it.
+### Elsewhere on the internet
+
+- 🌐 **Portfolio:** [aymanissa.dev](https://aymanissa.dev/)
+- 💼 **LinkedIn:** [aymanissa-dev](https://linkedin.com/in/aymanissa-dev)
+- 🐦 **X:** [@aymanissa_dev](https://x.com/aymanissa_dev)
+- 🧵 **Threads:** [@aymanissa.dev](https://www.threads.com/@aymanissa.dev)
+- 📧 **Email:** [hello@aymanissa.dev](mailto:hello@aymanissa.dev)
+
+---
